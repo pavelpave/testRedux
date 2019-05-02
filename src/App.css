@@ -22,7 +22,12 @@
 .App-link {
   color: #61dafb;
 }
-
+.wrap{
+  width: 100%;
+  position: absolute;
+  height: 100vh;
+  background: rebeccapurple;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
